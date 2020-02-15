@@ -1,0 +1,11 @@
+1. What problem do they solve by only permitting code rollouts twice a day?
+They decided to enforce this to prevent code changes from affecting performance negatively and regain. Each commit will be accounted for with a defect number, otherwise it will get rejected.
+
+2.  Why are they afraid of the auditors?
+Because they are at high security breach risk and are liable for stoing cutomer's cardholder ccv data that is confidential and there is a risk of fraud and legeal action if the data is not destructed.They don't want to be classified as Level 1 merchant and have auditors raise their transaction fees. This would result in monetary loss and decline in company's reputation.
+
+3. What is a NOC?  (It’s mentioned in the book and we’ve talked about it in class, but you may have to google it)
+NOC is a network operations center, where network control, monitoring and network management come in place. NOC takes preventative measures to ensure service delivery of SP(s).
+
+4. Why do Bill and Chris decide to meet once a week?
+They want to meet once a week to build a plan to prevent the outsourcing of the it department so that people don't loose their jobs.
